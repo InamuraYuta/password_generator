@@ -1,7 +1,7 @@
 body{
   background: #e0e0e0;
   font-family: 'Courier New',sans-serif;
-  text-align: centor;
+  text-align: center;
 }
 
 .container{
@@ -14,8 +14,8 @@ input[type="text"]{
   padding:7px;
   border-radius:3px;
   font-size:24px;
-  font-family:'Courier new',sans-self;
-  text-align:centor;
+  font-family:'Courier new',sans-serif;
+  text-align:center;
 }
   
 #btn{
